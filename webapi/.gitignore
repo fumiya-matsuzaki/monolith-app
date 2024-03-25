@@ -1,0 +1,10 @@
+.env
+.venv
+__pycache__
+**/__pycache__
+**/.pytest_cache
+**/.coverage
+.DS_Store
+**/.DS_Store
+log
+/migrations/versions/*.py
