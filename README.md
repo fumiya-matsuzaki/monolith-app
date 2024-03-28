@@ -1,4 +1,4 @@
-# monolith-app
+# Next.js-FastAPI
 
 
 ## Overview
